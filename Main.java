@@ -40,24 +40,4 @@ public class Main {
             return false;
         }
     }
-
-    // public static int getDigit(int number){
-
-    // }
-
-    // public static int sumOfOddPlace(long number) {
-
-    // }
-
-    // public static boolean prefixMatched(long number, int d){
-
-    // }
-
-    // public static int getSize(long d){
-
-    // }
-
-    // public static long getPrefix(long number, int k){
-
-    // }
 }
