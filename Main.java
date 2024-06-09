@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Enter a 13 to 16 digit credit card number: ");
         long number = reader.nextLong();
         reader.close();
+        boolean result = isValid(number);
     }
 
     public static boolean isValid(long number){
